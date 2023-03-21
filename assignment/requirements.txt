@@ -1,6 +1,0 @@
-Python==3.10.6
-Django==4.1.7
-django-allauth==0.52.0
-img==2.5
-Pillow==9.4.0
-
