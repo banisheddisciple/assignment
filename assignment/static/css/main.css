@@ -1,0 +1,59 @@
+body {
+    text-align: center;
+}
+
+
+.verticalLine {
+    height: 890px;
+    border-right: 2px solid #000900;
+    position: absolute;
+    right: 60%;
+}
+
+.verticalLine2 {
+    height: 890px;
+    border-right: 2px solid #000900;
+    position: absolute;
+    right: 59%;
+}
+
+.verticalLine3 {
+    height: 890px;
+    border-right: 2px solid #000900;
+    position: absolute;
+    right: 98%;
+}
+
+.verticalLine4 {
+    height: 890px;
+    border-right: 2px solid #000900;
+    position: absolute;
+    right: 2%;
+}
+
+.h_line {
+    border-bottom: 2px solid #000900;
+}
+
+.pagasus {
+    margin-right: 950px;
+}
+
+.contain {
+    margin-right: 150px;
+    margin-top: 350px;
+}
+
+.sein {
+    margin-right: 170px;
+    background-color: #e6b4e3;
+    color: black;
+    border: none;
+    border-radius: 10px;
+}
+
+.ldrago {
+    height: 800px;
+    font-size: 80px;
+    background-color: #e6b4e3;
+}
